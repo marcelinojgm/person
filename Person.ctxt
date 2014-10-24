@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=newAge
+comment0.target=Person(int)
+comment0.text=\r\n\ introducir\ la\ edad\ de\ la\ persona\r\n
+comment1.params=
+comment1.target=int\ getEdad()
+numComments=2
